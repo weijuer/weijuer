@@ -6,9 +6,7 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=weijuer&show_icons=true&theme=ts" /> -->
 
-
-
-![Vben's github stats](https://github-readme-stats.vercel.app/api?username=weijuer&show_icons=true&theme=vue)
+![Weijuer's github stats](https://github-readme-stats.vercel.app/api?username=weijuer&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weijuer)
 
