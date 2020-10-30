@@ -2,11 +2,11 @@
 
 
 #### 🔭 I’m currently maintaining on...
-![vue-guides](https://github-readme-stats.vercel.app/api/pin/?username=weijuer&repo=vue-guides)
+![vue-guides](https://github-readme-stats.vercel.app/api/pin/?username=weijuer&repo=vue-guides&theme=vue-dark)
 
-![Weijuer's github stats](https://github-readme-stats.vercel.app/api?username=weijuer&show_icons=true&theme=vue)
+![Weijuer's github stats](https://github-readme-stats.vercel.app/api?username=weijuer&show_icons=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weijuer&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weijuer&layout=compact&theme=vue-dark)
 
 #### 🌱 I’m currently learning ...
 - VUE
