@@ -1,14 +1,15 @@
 ### Hi there, I'm Weijuer 👋
 
 
- ⚡  I’m currently maintaining on [vue-guides](https://github.com/weijuer/vue-guides)
-
-
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=weijuer&show_icons=true&theme=ts" /> -->
+#### 🔭 I’m currently maintaining on on...
+![vue-guides](https://github-readme-stats.vercel.app/api/pin/?username=weijuer&repo=vue-guides)
 
 ![Weijuer's github stats](https://github-readme-stats.vercel.app/api?username=weijuer&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weijuer)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weijuer&layout=compact)
+
+#### 🌱 I’m currently learning ...
+VUE
 
 <!--
 **weijuer/weijuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
