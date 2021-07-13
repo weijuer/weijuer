@@ -2,6 +2,8 @@
 
 
 #### 🔭 I’m currently maintaining on...
+![w-design-vue](https://github-readme-stats.vercel.app/api/pin/?username=weijuer&repo=w-design-vue&theme=vue-dark)
+
 ![vue-guides](https://github-readme-stats.vercel.app/api/pin/?username=weijuer&repo=vue-guides&theme=vue-dark)
 
 ![Weijuer's github stats](https://github-readme-stats.vercel.app/api?username=weijuer&show_icons=true&theme=vue-dark)
