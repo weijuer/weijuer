@@ -1,14 +1,29 @@
 ### Hi there, I'm Weijuer 👋
 
-
-#### 🔭 I’m currently maintaining on...
-![w-design-vue](https://github-readme-stats.vercel.app/api/pin/?username=weijuer&repo=w-design-vue&theme=vue-dark)
-
-![vue-guides](https://github-readme-stats.vercel.app/api/pin/?username=weijuer&repo=vue-guides&theme=vue-dark)
-
 ![Weijuer's github stats](https://github-readme-stats.vercel.app/api?username=weijuer&show_icons=true&theme=vue-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weijuer&layout=compact&theme=vue-dark)
+
+#### 🔭 I’m currently maintaining on...
+
+![w-design](https://github-readme-stats.vercel.app/api/pin/?username=weijuer&repo=w-design&theme=vue-dark)
+
+#### 🐍 My contribution snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/weijuer/weijuer/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/weijuer/weijuer/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/weijuer/weijuer/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 #### 🌱 I’m currently learning ...
 - VUE
